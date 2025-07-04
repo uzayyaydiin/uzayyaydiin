@@ -31,11 +31,8 @@ I am a **graduate student in astrophysics**. My research primarily focuses on de
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dracula)
 
----
+
 
 > 🎓 "Scientific data gains meaning not only through observation but through reasoning and algorithms."
