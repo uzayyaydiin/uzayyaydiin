@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Uzay Aydın
+# 👋 Hi, I'm Uzay Aydın
 
 I am a **graduate student in astrophysics**. My research primarily focuses on developing **classification methodologies** to distinguish **Starburst galaxies from Active Galactic Nuclei (AGN)**. I am particularly interested in applying **machine learning**, **astrostatistics**, and **large-scale data analysis** techniques to extragalactic astrophysics.
 
