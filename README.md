@@ -20,6 +20,11 @@ I am a **graduate student in astrophysics**. My research primarily focuses on de
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4682B4?style=flat&logo=seaborn&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
 
 ---
 
