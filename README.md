@@ -66,7 +66,7 @@ In addition, I work with **M33 galaxy and MUSE observational data** to deepen my
 - ✉️ [Email](mailto:uzayaydiin@gmail.com)
 - 🧬 [ORCID: 0009-0004-7216-030X](https://orcid.org/0009-0004-7216-030X)
 - 💻 [GitHub](https://github.com/uzayyaydiin)
-- Personal website: https://sites.google.com/view/uzayaydin-com/
+- Personal website: https://www.uzayaydin.com/
 
 ---
 
